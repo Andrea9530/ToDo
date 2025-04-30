@@ -1,0 +1,72 @@
+{
+    "onboarding_select_language": "Select your language",
+    "onboarding_no_lists": "Create your first list",
+    "onboarding_placeholder": "Enter list name...",
+    "language_dropdown_search": "Search...",
+    "onboarding_go_button": "Create",
+    "addItemTextPlaceholder": "Add item...",
+    "createListTextPlaceholder": "Create list...",
+    "emptyList": "The list is empty, add an item",
+    "noList": "Create a new list",
+    "title": "Title",
+    "description": "Description",
+    "dueDate": "Due date",
+    "submit": "Submit",
+    "editTaskTitlePlaceholder": "Insert title...",
+    "editTaskDecriptionPlaceholder": "Insert description...",
+
+    "_LISTS PAGE": null,
+    "listsPageTitle": "Lists",
+
+    "_EDIT LIST PAGE": null,
+    "editListDelete": "Delete",
+
+
+    "_SETTINGSPAGE": null,
+
+    "settingsTitle": "Settings",
+    "settingsPageLanguage": "Change language",
+    "settingsPageTheme": "Change theme",
+    "settingsPageDeleteList": "Delete a list",
+    "settingsAlertChanges": "Warn before discarding changes",
+    "settingsAlertDelete": "Warn before deleting list",
+    "settingsAppVersion": "App version",
+
+
+    "_LISTERRORS": null,
+
+    "errorListAlreadyPresent": "The list is already present",
+    "errorListNotPresent": "The selected list is not in memory",
+    "errorListMalformed": "The list in memory is corrupted",
+
+
+    "_EDIT ITEM PAGE": null,
+    "selectDateTitle": "Select date",
+    "selectTimeTitle": "Select time",
+    "alertExitEditingTitle": "Attention",
+    "alertExitEditingDescription": "Are you sure you want to exit, edits will not be saved",
+    "alertExitEditingDontAskAgain": "Don't ask me again",
+    "alertExitEditingCancel": "CANCEL",
+    "alertExitEditingYes": "YES",
+
+
+    "alertListNotEmpty": "The list contains items, are you sure?",
+    "alertEditDescription": "There is already a list with the chosen name",
+    "alertEmptyTitleDescription": "The title cannot be empty",
+    "alertEmptyNameDescription": "The name cannot be empty",
+
+
+    ":DICTIONARY": null,
+
+    "attention": "Attention",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "doNotAskAgain": "Do not ask again",
+    "yesterday": "Yesterday",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "at": "at",
+    "The": "The",
+    "ok": "OK"
+
+}

@@ -1,0 +1,67 @@
+{
+    "onboarding_select_language": "Seleziona lingua",
+    "onboarding_no_lists": "Crea la tua prima lista",
+    "onboarding_placeholder": "Inserisci nome lista...",
+    "language_dropdown_search": "Ricerca...",
+    "onboarding_go_button": "Crea",
+    "addItemTextPlaceholder": "Aggiungi elemento...",
+    "createListTextPlaceholder": "Crea lista...",
+    "emptyList": "La lista è vuota, aggiungi un elemento",
+    "noList": "Crea una nuova lista",
+    "title": "Titolo",
+    "description": "Descrizione",
+    "dueDate": "Scadenza",
+    "submit": "Invia",
+    "editTaskTitlePlaceholder": "Inserire titolo...",
+    "editTaskDecriptionPlaceholder": "Inserire descrizione...",
+
+    "_LISTS PAGE": null,
+    "listsPageTitle": "Liste",
+
+    "_EDIT LIST PAGE": null,
+    "editListDelete": "Elimina",
+
+    "_SETTINGSPAGE": null,
+
+    "settingsTitle": "Impostazioni",
+    "settingsPageLanguage": "Cambia lingua",
+    "settingsPageTheme": "Cambia tema",
+    "settingsPageDeleteList": "Elimina una lista",
+    "settingsAlertChanges": "Avvisa prima di scartare modifiche",
+    "settingsAlertDelete": "Avvisa prima di eliminare lista",
+    "settingsAppVersion": "Versione app",
+
+    
+    "_LISTERRORS": null,
+
+    "errorListAlreadyPresent": "La lista è già presente",
+    "errorListNotPresent": "La lista selezionata non è presente in memoria",
+    "errorListMalformed": "La lista in memoria è corrotta",
+
+    "_EDIT ITEM PAGE": null,
+    "selectDateTitle": "Seleziona data",
+    "selectTimeTitle": "Seleziona ora",
+    "alertExitEditingTitle": "Attenzione",
+    "alertExitEditingDescription": "Sei sicuro di voler uscire, le modifiche non verranno salvate",
+    "alertExitEditingDontAskAgain": "Non chiedere più",
+    "alertExitEditingCancel": "CANCELLA",
+    "alertExitEditingYes": "SI",
+
+    "alertListNotEmpty": "La lista contiene degli elementi, sei sicuro?",
+    "alertEditDescription": "È già presente una lista con il nome scelto",
+    "alertEmptyTitleDescription": "Il titolo non può essere vuoto",
+    "alertEmptyNameDescription": "Il nome non può essere vuoto",
+
+    ":DICTIONARY": null,
+
+    "attention": "Attenzione",
+    "confirm": "Conferma",
+    "cancel": "Cancella",
+    "doNotAskAgain": "Non chiedere più",
+    "yesterday": "Ieri",
+    "today": "Oggi",
+    "tomorrow": "Domani",
+    "at": "alle",
+    "The": "Il",
+    "ok": "OK"
+}
