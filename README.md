@@ -2,7 +2,11 @@
 
 > A simple to-do app that lets you create multiple lists cantaining items that support title, description and a due date.
 
-
+# Screenshots
+<img src="https://github.com/user-attachments/assets/6b1d11cc-aef4-4c4d-b250-037946935f67" width="400">
+<img src="https://github.com/user-attachments/assets/e047dbfc-13fd-4bb5-a4d7-09786181e59e" width="400">
+<img src="https://github.com/user-attachments/assets/2b0965fe-79d9-40bb-a0bd-84e7d806aaf6" width="400">
+<img src="https://github.com/user-attachments/assets/bbde821d-de55-4e25-a51e-f4671bcfd0be" width="400">
 
 ## Features
 
